@@ -27,9 +27,9 @@
 >一盏灯， 一片昏黄； 一简书， 一杯淡茶。 
 >>守着那一份淡定， 品读属于自己的寂寞。 
 >>>保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。
-# 单行代码引用  
+# 单行代码引用
 `hellow world`
-# 多行代码引用( ```)
+# 多行代码引用 
 ```
 let pauseBtn = UIButton(frame: CGRect(x: 50, y: HEIGHT-100, width: 100, height: 50))
 pauseBtn.addTarget(self, action: #selector(btnClick(_:)), for: .touchUpInside)
@@ -37,7 +37,7 @@ pauseBtn.setTitle("暂停", for: .normal)
 pauseBtn.tag = 11
 pauseBtn.setTitleColor(UIColor.black, for: .normal)
 ```
- 在代码前后加上```，格式：‘ ```代码``` ’
+在代码前后加上
 # 粗体和斜体
     *斜体字* 
     **粗体字** 
