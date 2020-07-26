@@ -16,9 +16,9 @@
 [创建文件夹方法-引自](https://www.cnblogs.com/wuyepeng/p/9742690.html"悬停显示文字")    【`空行分段`高亮】
    
  句尾两个空格可以分段   空行分段  
-   1.  
-       2.  
-       3.  
+ 1.  
+ 2.  
+ 3.  
  # 插入网络图片 `![图片名]（图片地址）`
 ![图片](https://upload-images.jianshu.io/upload_images/1874524-b9be15e31c25eba2.jpg)  
 或 ![图片名][1]  
@@ -29,6 +29,7 @@
 >>>保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。
 # 单行代码引用
 `hellow world`
+在代码前后加上\`
 # 多行代码引用 
 ```
 let pauseBtn = UIButton(frame: CGRect(x: 50, y: HEIGHT-100, width: 100, height: 50))
@@ -37,7 +38,7 @@ pauseBtn.setTitle("暂停", for: .normal)
 pauseBtn.tag = 11
 pauseBtn.setTitleColor(UIColor.black, for: .normal)
 ```
-在代码前后加上
+在代码前后加上```
 # 粗体和斜体
     *斜体字* 
     **粗体字** 
