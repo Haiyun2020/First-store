@@ -57,5 +57,5 @@ pauseBtn.setTitleColor(UIColor.black, for: .normal)
 # 删除线`~包围要删除内容`
 ~删除~  
 # 参考
-[GitHub的ReadMe.md文档编辑语法](https://www.jianshu.com/p/9ab92efc286a)
-[GitHub上README.md排版样式教程](https://blog.csdn.net/u012067966/article/details/50736647)
+  [GitHub的ReadMe.md文档编辑语法](https://www.jianshu.com/p/9ab92efc286a)  
+  [GitHub上README.md排版样式教程](https://blog.csdn.net/u012067966/article/details/50736647)
