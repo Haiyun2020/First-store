@@ -14,7 +14,8 @@
         * 备注：如果删除文件夹下面的所有文件，文件夹也会消失（github不允许创建空文件夹）    
    
 [创建文件夹方法-引自](https://www.cnblogs.com/wuyepeng/p/9742690.html"悬停显示文字")    【`空行分段`高亮】
-   
+# 文字超链接`[文字](地址/网址)  `
+[我的GitHub](https://github.com/Haiyun2020)  
  # 插入网络图片 `![图片名]（图片地址）`
 ![图片](https://upload-images.jianshu.io/upload_images/1874524-b9be15e31c25eba2.jpg)  
 或 ![图片名][1]  
@@ -54,7 +55,7 @@ pauseBtn.setTitleColor(UIColor.black, for: .normal)
 # 文字背景高亮\`包围
 # 换行`<br> ,Tab缩进`
 ## 单行文本
-换行,注意第三行的\<br>前加了反斜杠<br> 
+换行,注意\<br>前加了反斜杠转译（右斜），或者用符号\``进行原样输出<br> 
 使用两个Tab符实现单行文本。
 ## 多行文本
 多行文本和单行文本异曲同工，只要在每行行首加两个Tab  
