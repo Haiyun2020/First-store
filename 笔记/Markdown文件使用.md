@@ -15,10 +15,6 @@
    
 [创建文件夹方法-引自](https://www.cnblogs.com/wuyepeng/p/9742690.html"悬停显示文字")    【`空行分段`高亮】
    
- 句尾两个空格可以分段   空行分段  
- 1.  
- 2.  
- 3.  
  # 插入网络图片 `![图片名]（图片地址）`
 ![图片](https://upload-images.jianshu.io/upload_images/1874524-b9be15e31c25eba2.jpg)  
 或 ![图片名][1]  
@@ -29,7 +25,6 @@
 >>>保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。
 # 单行代码引用
 `hellow world`  
-
 在代码前后加上\`
 # 多行代码引用 
 ```
@@ -56,6 +51,17 @@ pauseBtn.setTitleColor(UIColor.black, for: .normal)
 ***
 # 删除线`~包围要删除内容`
 ~删除~  
+# 文字背景高亮\`包围
+# 换行`<br> ,Tab缩进`
+## 单行文本
+换行,注意第三行的\<br>前加了反斜杠<br> 
+使用两个Tab符实现单行文本。
+## 多行文本
+多行文本和单行文本异曲同工，只要在每行行首加两个Tab  
+句尾两个空格可以分段   空行分段  
+ 1.  
+ 2.  
+ 3.  
 # 参考
   [GitHub的ReadMe.md文档编辑语法](https://www.jianshu.com/p/9ab92efc286a)  
   [GitHub上README.md排版样式教程](https://blog.csdn.net/u012067966/article/details/50736647)
