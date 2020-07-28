@@ -6,7 +6,7 @@
 ##### 五级标题 
 备注 # 符号需要再英文输入法状态下输入，并且符号和标题之间需要有一个以上空格 ，文件名后缀一定是.md
 # GitHub上如何创建文件夹`/`
-# 分级项目符号`*`
+# 项目符号`*+空格，按tab分级`
 * 首先是进入所要创建文件夹的库中点击Create new file
   * 接着是继续输入当我们按下一个“/”后就变成下面的样子了，此时new file 就变成了一个文件夹了
     * 后一步（因为github不允许创建空文件夹）我们需要在新文件夹下创建一个文件，至于什么文件随意
@@ -15,7 +15,7 @@
    
 [创建文件夹方法-引自](https://www.cnblogs.com/wuyepeng/p/9742690.html"悬停显示文字")    【`空行分段`高亮】
 # 文字超链接`[文字](地址/网址)  `
-[我的GitHub](https://github.com/Haiyun2020)  
+[我的GitHub](https://github.com/Haiyun2020"悬停显示文字")  
  # 插入网络图片 `![图片名]（图片地址）`
 ![图片](https://upload-images.jianshu.io/upload_images/1874524-b9be15e31c25eba2.jpg)  
 或 ![图片名][1]  
