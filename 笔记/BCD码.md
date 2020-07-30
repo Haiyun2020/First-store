@@ -12,7 +12,7 @@
 
 ![BCD码](https://iknow-pic.cdn.bcebos.com/aa64034f78f0f73664875f5b0c55b319ebc4136a?x-bce-process=image/resize,m_lfit,w_600,h_800,limit_1)    
 
-***思考***
+***思考***  
  因为计算机只能处理二进制的数，当我们输入10进制数时，需要转换成二进制计算机才能处理，当处理完之后，得到的二进制结果也不是人可以轻松辨认的，所以还得从二进制转成十进制在终端输出。
 # 参考
 [ASCII与BCD的理解，主要讲解BCD编码](https://blog.csdn.net/qq_33750826/article/details/53004685)  
