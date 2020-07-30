@@ -9,10 +9,11 @@
 * 8421码，表示从左到位每个位的权分别为8，4，2,1（对应1000,0100,0010,0001）     
 * 2421码，表示从左到位每个位的权分别为2，4，2,1,（注意：1000上的1规定它表示2了，而不是8，与正常的二进制到十进制转换要有所区别）    
 * 余3码， 其实就是8421码的每个二进制码分别加3以后对应的二进制码。    
-![BCD码](https://blog.csdn.net/qq_33750826/article/details/53004685)    
+
+![BCD码](https://iknow-pic.cdn.bcebos.com/aa64034f78f0f73664875f5b0c55b319ebc4136a?x-bce-process=image/resize,m_lfit,w_600,h_800,limit_1)    
 
 ***思考***
  因为计算机只能处理二进制的数，当我们输入10进制数时，需要转换成二进制计算机才能处理，当处理完之后，得到的二进制结果也不是人可以轻松辨认的，所以还得从二进制转成十进制在终端输出。
 # 参考
-[ASCII与BCD的理解，主要讲解BCD编码](https://blog.csdn.net/qq_33750826/article/details/53004685)
+[ASCII与BCD的理解，主要讲解BCD编码](https://blog.csdn.net/qq_33750826/article/details/53004685)  
 [BCD码中的8421码 2421码 5421码和余3码的简单使用](https://blog.csdn.net/QT_continue/article/details/88184488)
